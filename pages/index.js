@@ -22,9 +22,8 @@ const Home = ({ allPostsData }) => {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Antal Molnár. I'm currently studying at University of
-          Debrecen. My field is Computer Science. Currently, it's my third year
-          out of three for the bachelor's degree.
+          Hello, I'm Antal Molnár. I'm currently studying at the University of
+          Debrecen.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
